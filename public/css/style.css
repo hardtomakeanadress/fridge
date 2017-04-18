@@ -1,0 +1,13 @@
+body {
+    background-color: lightgreen;
+}
+
+.fridgeItems {
+    background-color: lightpink;
+    text-transform: capitalize;
+}
+
+logo {
+    border-color: red;
+    border: 5px;
+}
